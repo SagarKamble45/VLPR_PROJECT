@@ -2,7 +2,7 @@ VLPR_PROJECT
 
 Web-based VLPR is a system that uses cameras and image processing
  technology to automatically capture, analyze, and recognize vehicle license
- plates. Unlike traditional VLPR systems, web-based ANPR operates over
+ plates. Unlike traditional VLPR systems, web-based VLPR operates over
  the internet, allowing users to access and manage the collected data
  through a web interface. It is often used for various applications, such as
  parking management, security, and traffic monitoring, often the
