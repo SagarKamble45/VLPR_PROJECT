@@ -1,0 +1,4 @@
+following steps are very imp to run this project properly
+
+1. download the zip file form the below link and extract in your project directory or insted of this create an output folder and in the output folder create three folder just like img contain 
+
