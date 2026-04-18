@@ -251,18 +251,20 @@ To handle common OCR misreads, the system applies a correction mapping before va
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! To get started:
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
 This project is for educational and research purposes. Please ensure compliance with local laws when deploying license plate recognition systems.
+
+---
+
+## 👨‍💻 Creator
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Sagar Kamble</strong><br/>
+      Final Year Engineering Project<br/>
+      <a href="https://github.com/sagarkamble45">GitHub: @sagarkamble45</a>
+    </td>
+  </tr>
+</table>
