@@ -257,14 +257,6 @@ This project is for educational and research purposes. Please ensure compliance 
 
 ---
 
-## 👨‍💻 Creator
+## 👨‍💻 Creator - <strong>Sagar Kamble</strong> <a href="https://github.com/sagarkamble45">GitHub: @sagarkamble45</a>
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>Sagar Kamble</strong><br/>
-      Final Year Engineering Project<br/>
-      <a href="https://github.com/sagarkamble45">GitHub: @sagarkamble45</a>
-    </td>
-  </tr>
-</table>
+
