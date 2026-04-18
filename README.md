@@ -257,6 +257,6 @@ This project is for educational and research purposes. Please ensure compliance 
 
 ---
 
-## 👨‍💻 Creator - <strong>Sagar Kamble</strong> <a href="https://github.com/sagarkamble45">GitHub: @sagarkamble45</a>
+## 👨‍💻 Creator -  <a href="https://github.com/sagarkamble45"><strong>Sagar Kamble</strong></a>
 
 
