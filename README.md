@@ -235,6 +235,14 @@ To handle common OCR misreads, the system applies a correction mapping before va
 | YOLO Confidence | `YOLO_Video.py` | `0.8` | Minimum detection confidence |
 
 ---
+ 
+## 🎥 Demo
+ 
+[![VLPR Demo](https://img.youtube.com/vi/3cnbWoe7nHM/0.jpg)](https://youtu.be/3cnbWoe7nHM)
+ 
+> Click the thumbnail above to watch the project demonstration.
+ 
+---
 
 ## 📸 Screenshots
 
